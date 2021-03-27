@@ -17,7 +17,7 @@ author_list="shylocks whyour 799953468 i-chenzhe"
 # scripts_base_url_3=https://gitee.com/SuperManito/scripts/raw/master/
 # scripts_base_url_4=https://gitee.com/SuperManito/scripts/raw/master/
 scripts_base_url_1=https://gitee.com/SuperManito/scripts/raw/master/
-scripts_base_url_2=https://raw.sevencdn.com/whyour/hundun/master/quanx/
+scripts_base_url_2=https://github.com/whyour/hundun/raw/master/quanx/
 scripts_base_url_3=https://gitee.com/SuperManito/scripts/raw/master/
 scripts_base_url_4=https://gitee.com/SuperManito/scripts/raw/master/
 
